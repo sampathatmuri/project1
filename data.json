@@ -1,0 +1,59 @@
+{"details":{
+  "image":"dhoni.jpg",
+  "name":"sampath",
+  "phone":"9884741452",
+  "email":"1@gmail.com",
+  "Address":"poranki"
+
+},
+
+"carrer":{
+  "info":"I tried hard but i keep on trying"
+
+},
+"education":[{
+  "qualification":"BTech",
+  "institute":"MIC COLLEGE",
+  "year":"2016-2020",
+  "percentage":"70%"
+},
+{
+  "qualification":"Intermediate",
+  "institute":"Sri chaitanya",
+  "year":"2014-2016",
+  "percentage":"95.4%"
+},
+{
+  "qualification":"Tenth",
+  "institute":"Tvnrm",
+  "year":"2014",
+  "percentage":"9.5%"
+}
+],
+"technicalskills":[{
+  "title":"programming languages",
+  "info":["c,c++,html,css"]
+},
+{
+  "title":"Databases",
+  "info":["sql,mysql,oracle"]
+},
+{
+"title":"operating system",
+"info":["windows,linux,mac"]
+}
+],
+"achievements":[
+  {
+
+
+  "title":"prizes",
+  "info":"Got a cisco merit certificate on cyber security"
+},
+{
+  "title":"other achievements",
+  "info":"Platinum xbox player"
+}
+
+]
+}
